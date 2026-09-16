@@ -1,3 +1,5 @@
+[![Sponsor @tmiland](https://img.shields.io/badge/Sponsor-%40tmiland-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tmiland)
+
 <div align="center">
 
 🕙 `Last Sync: 02/06/2026 12:18 UTC`
